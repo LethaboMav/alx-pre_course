@@ -1,1 +1,1 @@
-My second commit
+this directory contains tasks that tests ones knowledge of git
